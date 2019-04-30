@@ -1,7 +1,7 @@
 # STAT-689--Statistical-Computations </br>
 <b>Graduate school course</b> </br> 
 <b>Course content:</b> <br/> 
-• Getting Started Downloading and setting up R and python. The basic syntax of each language including function creation and important packages (e.g. numpy).<br/> 
+• The syntax of each language R and Python including function creation and important packages.
 Jupyter notebooks and version control with git. The importance of vectorization. C/C++
 versus R/python for loops. Timing code. Calling R from python and vice versa. Generating pseudo–random numbers.<br/> 
 • Linear Regression and Matrix Inversion Sweeping and the Cholesky decomposition for determining linear regression parameter fits. Implementations in R and
